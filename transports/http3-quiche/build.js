@@ -225,7 +225,7 @@ if (argv.length > 2) {
           '6',
           '-r',
           'napi',
-          '--strip',
+          '--verbose',
           ...pbargspre,
           '--backend',
           'cmake-js',
